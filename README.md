@@ -9,8 +9,8 @@ Basically:
 
     cp -r browser/components/loop/content
     cp -r browser/components/loop/test
+    cp -r browser/components/loop/shared
     cp -r browser/components/loop/standalone
-    cp -r browser/components/loop/content/shared standalone/shared
 
 To run:
 
