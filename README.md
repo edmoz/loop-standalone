@@ -1,6 +1,8 @@
 loop-standalone
 ===============
 
+**This is out of data.  DO NOT USE**
+
 copy of mozilla-central to run Loop standalone client and tests:
 
 https://github.com/mozilla/gecko-dev/tree/master/browser/components/loop
